@@ -1,18 +1,18 @@
 [
   {
     "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
-    "image": "./images/id1.jpeg"
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/JS_Blog/images/id1.jpeg"
   },
   {
     "id": "a7f3b0d3-8f4a-4c79-b9b3-dfe01b562b91",
-    "image": "./images/id02.jepg"
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/JS_Blog/images/id02.jpeg"
   },
   {
     "id": "cf9a5027-447b-46b2-869b-2855ea4ea883",
-    "image": "./images/id03.jpeg"
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/JS_Blog/images/id03.jpeg"
   },
   {
     "id": "e1b8b515-2a7e-4b3d-b489-b72fa3b256b3",
-    "image": "./images/id04.jepg"
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/JS_Blog/images/04.jpeg"
   }
 ]
