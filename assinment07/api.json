@@ -1,0 +1,67 @@
+{
+  "bits": [
+    {
+      "id": 1,
+      "title": "Vintage Camera",
+      "description": "A classic film camera with a leather body, perfect for collectors.",
+      "currentBidPrice": 150.0,
+      "timeLeft": "2h 15m",
+      "bidsCount": 8,
+      "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "Acoustic Guitar",
+      "description": "A wooden acoustic guitar, ideal for both beginners and pros.",
+      "currentBidPrice": 245.0,
+      "timeLeft": "1h 47m",
+      "bidsCount": 15,
+      "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Sleek Laptop",
+      "description": "A modern slim laptop designed for productivity and style.",
+      "currentBidPrice": 320.0,
+      "timeLeft": "3h 5m",
+      "bidsCount": 12,
+      "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Luxury Watch",
+      "description": "An elegant wristwatch with a premium leather strap.",
+      "currentBidPrice": 89.99,
+      "timeLeft": "4h 0m",
+      "bidsCount": 5,
+      "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "Stylish Chair",
+      "description": "A modern designer chair perfect for your home or office.",
+      "currentBidPrice": 400.0,
+      "timeLeft": "50m",
+      "bidsCount": 18,
+      "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Book: Milk and Honey",
+      "description": "A popular poetry book by Rupi Kaur, loved for its emotional depth.",
+      "currentBidPrice": 980.0,
+      "timeLeft": "2h 45m",
+      "bidsCount": 22,
+      "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid6-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Abstract Painting",
+      "description": "A colorful modern painting that adds creativity to any space.",
+      "currentBidPrice": 610.5,
+      "timeLeft": "1h 10m",
+      "bidsCount": 9,
+      "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid7-min.png"
+    }
+  ]
+}
