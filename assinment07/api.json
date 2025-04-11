@@ -31,7 +31,7 @@
       "id": 4,
       "title": "Luxury Watch",
       "description": "An elegant wristwatch with a premium leather strap.",
-      "currentBidPrice": 89.0,
+      "currentBidPrice": 89.99,
       "timeLeft": "4h 0m",
       "bidsCount": 5,
       "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid4-min.png"
@@ -58,7 +58,7 @@
       "id": 7,
       "title": "Abstract Painting",
       "description": "A colorful modern painting that adds creativity to any space.",
-      "currentBidPrice": 610.0,
+      "currentBidPrice": 610.99,
       "timeLeft": "1h 10m",
       "bidsCount": 9,
       "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/assinment07/Bid7-min.png"
