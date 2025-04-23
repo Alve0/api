@@ -1,0 +1,122 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/beautiful-young-female-doctor-looking-camera-office.jpg",
+    "name": "Dr. Ayesha Khan",
+    "education": "MBBS, FCPS",
+    "speciality": "Cardiologist",
+    "experience": "10 years",
+    "registration_number": "REG-20001",
+    "available_days": ["Monday", "Wednesday", "Friday"],
+    "fee": 1800
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/doctor-wearing-white-coat-medium-shot.jpg",
+    "name": "Dr. Farah Ahmed",
+    "education": "MBBS, MD",
+    "speciality": "Dermatologist",
+    "experience": "8 years",
+    "registration_number": "REG-20002",
+    "available_days": ["Tuesday", "Thursday"],
+    "fee": 1100
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/female-doctor-hospital.jpg",
+    "name": "Dr. Meher Fatima",
+    "education": "MBBS, DGO",
+    "speciality": "Gynecologist",
+    "experience": "12 years",
+    "registration_number": "REG-20003",
+    "available_days": ["Sunday", "Monday"],
+    "fee": 2100
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/female-doctor-hospital-with-stethoscope.jpg",
+    "name": "Dr. Rabia Zaman",
+    "education": "MBBS, MS",
+    "speciality": "Pediatric Surgeon",
+    "experience": "6 years",
+    "registration_number": "REG-20004",
+    "available_days": ["Wednesday", "Saturday"],
+    "fee": 900
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/medium-shot-smiley-doctor-with-coat.jpg",
+    "name": "Dr. Hira Siddiqui",
+    "education": "MBBS, FCPS",
+    "speciality": "Neurologist",
+    "experience": "9 years",
+    "registration_number": "REG-20005",
+    "available_days": ["Thursday", "Friday"],
+    "fee": 1350
+  },
+  {
+    "image": "https://i.ibb.co.com/pvTRRk2y/doctor-holding-clipboard-looking-camera.jpg",
+    "name": "Dr. Zara Qureshi",
+    "education": "MBBS, MD",
+    "speciality": "General Physician",
+    "experience": "5 years",
+    "registration_number": "REG-20006",
+    "available_days": ["Monday", "Wednesday", "Sunday"],
+    "fee": 1000
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/doctor-with-his-arms-crossed-white-background.jpg",
+    "name": "Dr. Amir Hussain",
+    "education": "MBBS, FCPS",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "15 years",
+    "registration_number": "REG-30001",
+    "available_days": ["Tuesday", "Friday"],
+    "fee": 2500
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/front-view-smiley-male-doctor.jpg",
+    "name": "Dr. Bilal Sheikh",
+    "education": "MBBS, MD",
+    "speciality": "Endocrinologist",
+    "experience": "11 years",
+    "registration_number": "REG-30002",
+    "available_days": ["Monday", "Thursday"],
+    "fee": 1900
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/portrait-attractive-male-doctor.jpg",
+    "name": "Dr. Naveed Akhtar",
+    "education": "MBBS, FCPS",
+    "speciality": "Urologist",
+    "experience": "7 years",
+    "registration_number": "REG-30003",
+    "available_days": ["Wednesday", "Saturday"],
+    "fee": 1700
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/portrait-candid-male-doctor.jpg",
+    "name": "Dr. Usman Raza",
+    "education": "MBBS, MS",
+    "speciality": "ENT Specialist",
+    "experience": "9 years",
+    "registration_number": "REG-30004",
+    "available_days": ["Sunday", "Tuesday"],
+    "fee": 1250
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Alveom/api/refs/heads/main/doctor/photos/portrait-confident-male-doctor.jpg",
+    "name": "Dr. Salman Javed",
+    "education": "MBBS, FCPS",
+    "speciality": "Gastroenterologist",
+    "experience": "13 years",
+    "registration_number": "REG-30005",
+    "available_days": ["Thursday", "Saturday"],
+    "fee": 2300
+  },
+  {
+    "image": "https://i.ibb.co.com/hRKk5mp8/portrait-professional-medical-worker-posing-picture-with-arms-folded.jpg",
+    "name": "Dr. Imran Baig",
+    "education": "MBBS, DMRD",
+    "speciality": "Radiologist",
+    "experience": "6 years",
+    "registration_number": "REG-30006",
+    "available_days": ["Monday", "Wednesday", "Friday"],
+    "fee": 800
+  }
+]
