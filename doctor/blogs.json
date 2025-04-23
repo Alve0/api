@@ -16,7 +16,7 @@
     "answer": "Controlled components are form elements where React controls the input value using state. Uncontrolled components store their own state internally and are accessed via refs. Controlled components offer better control and predictability, making them preferable for most use cases, especially in complex forms."
   },
   {
-    "question": "Tell us something about useFormStatus()!! (explore and explain)",
+    "question": "Tell us something about useFormStatus() (explore and explain)",
     "answer": "useFormStatus is a React hook introduced in React 18 for use with the new <form> actions in server components. It returns the current status of a form submission (e.g., 'pending'). It's useful for showing loading indicators or disabling buttons during submission in server-driven apps using React Server Components or Next.js App Router."
   }
 ]
